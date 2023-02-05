@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.helo {
+  padding: 20px;
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  text-align: center;
+  margin: 0 auto;
+}
+.centerDiv {
+  margin: 0 auto;
+  text-align: center;
+}
